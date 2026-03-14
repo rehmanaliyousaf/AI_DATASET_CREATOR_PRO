@@ -32,13 +32,12 @@ Add screenshots of your GUI here.
 Example:
 
 ```
-screenshots/
     gui_main.png
 ```
 
 Then display it in README:
 
-![GUI Preview](screenshots/gui_main.png)
+![GUI Preview](gui_main.png)
 
 ---
 
